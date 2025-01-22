@@ -1,0 +1,7 @@
+<h1> Información acerca del proyecto </h1>
+
+Se realiza el proyecto el cual corresponde a un desafio propuesto por el curso de Alura Latam.
+El mismo consiste en realizar la parte lógica del mismo, el cual debe poder ingresar valores (Tomados a traves de un input del archivo HTML)
+y almacenarlos en una lista.
+
+El programa debe poder realizar un sorteo de números en donde para guiarnos que números salen lo limitamos al tamaño que tiene la lista.
